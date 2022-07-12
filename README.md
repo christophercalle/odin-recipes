@@ -1,2 +1,3 @@
 # odin-recipes
-Recipe site 
+An Odin Project recipe webpage using the foundation fundamentals of HTML.
+
